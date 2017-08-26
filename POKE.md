@@ -5,15 +5,30 @@
 For the poke:
 | Ingredient | Note | Total | Per Person | In Kitchen |
 | ---------- | ---- | -----:| ----------:|:----------:|
-| Fish | Whatever the store has | 1 lb| 0.25 lb | No |
-| Rice | | 2 cup | 0.5 cup | Yes | 
-| Mango | Cube half the mango | 1 cup | 0.25 cup | No |
-| Sesame Oil | | 2 tbsp | 0.5 tbsp | No |
+| Fish | Whatever the store has | 1.25 lb| 0.25 lb | No |
+| Rice | | 2.5 cup | 0.5 cup | Yes | 
+| Mango | Cube mango | 1.25 cup | 0.25 cup | No |
+| Sesame Oil | | 2.5 tbsp | 0.5 tbsp | No |
 | Green Onion | | 1 bunch | To taste | No |
 | Seaweed | Get it at the counter/already prepared | 1 container | A spoonful | No |
 | Cilantro | | 1 bunch | 2 or 3 sprigs | No |
-| Sesame Seeds | | 2 tbsp | 0.5 tbsp | Yes |
-| Soy Sauce | | 1.3 tbsp | 0.3 tbsp | Yes |
+| Sesame Seeds | | 2.5 tbsp | 0.5 tbsp | Yes |
+| Soy Sauce | | 1.6 tbsp | 0.3 tbsp | Yes |
+
+Salad ingredients:
+| Ingredient | Note | Total | Per Person | In Kitchen |
+| ---------- | ---- | -----:| ----------:|:----------:|
+| Mango | Thinly mango | 12 | 2 or 3 slices | No |
+| Baby Gem Lettuce | | 2 Heads | A decent amount | No |
+| Cilantro | | | A handful | No |
+| Thai Basil | | | A handful | No |
+| Mint | | | A handful | No |
+| —— | | | | |
+| Fish Sauce | | 4 tbsp | - | Yes |
+| Lime | Juice of 1 lime | 1 Lime | - | No |
+| Caster Sugar | | 1 tbsp | - | Yes |
+| Garlic | | 1 clove's worth | - | Yes |
+| Red Chillies | | 3 Chillies | - | No |
 
 ## The Process
 
