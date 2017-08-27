@@ -1,49 +1,6 @@
 # Poke
 
-## The Meal
-
-### Context
-
-When I served this dish, it was nearing the end of summer and starting to transition to fall. I had a rough idea for a fruity (ideally through the use of mango) meal that was on the lighter side. It was 80°F out and that meant that the less amount of heat I used, the better. 
-
-I decided that I wanted to do a bold tuna bowl, and the season permitted me my mango, with a simple spicy and refreshing green salad on the side. By adding in the mint, Thai basil, and cilantro to the salad, it gave it an extra refreshing kick, and helped mellow out the salad dressing.
-
-### Ingredients
-
-For the poke:  
-
-| Ingredient | Note | Total | Per Person |
-| ---------- | ---- | -----:| ----------:|
-| Fish | Whatever the store has | 1.25 lb| 0.25 lb |
-| Rice | | 2.5 cup | 0.5 cup |
-| Mango | Cube mango | 1.25 cup | 0.25 cup |
-| Sesame Oil | | 2.5 tbsp | 0.5 tbsp |
-| Green Onion | | 1 bunch | To taste |
-| Seaweed | Get it at the counter/already prepared | 1 container |
-| Cilantro | | 1 bunch | 2 or 3 sprigs |
-| Sesame Seeds | | 2.5 tbsp | 0.5 tbsp |
-| Soy Sauce | | 1.6 tbsp | 0.3 tbsp |
-
-Salad ingredients:  
-
-| Ingredient | Note | Total | Per Person |
-| ---------- | ---- | -----:| ----------:|
-| Mango | Thinly mango | 5 slices | 1 slices |
-| Baby Gem Lettuce | | 1 head | A decent amount |
-| Cilantro | | 1 bunch | To taste |
-| Thai Basil | | " | " |
-| Mint | | " | " |
-
-Salad Dressing:
-
-| Ingredient | Note | Total | Per Person |
-| ---------- | ---- | -----:| ----------:|
-| Fish Sauce | | 4 tbsp | - |
-| Lime | Juice of 1 lime | 1x | - |
-| Caster Sugar | | 1 tbsp | - |
-| Garlic | | 1 clove's worth | - |
-| Fresno Chili | Minced | 1x | - |
-| Serrano Chili | Minced | 1x | - |
+This is a simple and straightforward guide on general poke preperation. It's one of my favorite dishes no matter which of the multitude of variations its employing. I wasn't familiar on the philosophy or history of poke, and thought it might make sense to do some research as well as walk through how I select my fish and condiments and whatnot. Had a lot of fun.
 
 ## Background
 
@@ -92,3 +49,48 @@ Here's some of my favorite condiments:
 - Scallions
 
 Check out Serious Eat's recommendations for more ideas for condiments: http://www.seriouseats.com/recipes/2016/06/ahi-poke-hawaiian-raw-tuna-salad-recipe.html
+
+## The Meal
+
+### Context
+
+When I served this dish, it was nearing the end of summer and starting to transition to fall. I had a rough idea for a fruity (ideally through the use of mango) meal that was on the lighter side. It was 80°F out and that meant that the less amount of heat I used, the better. 
+
+I decided that I wanted to do a bold tuna bowl, and the season permitted me my mango, with a simple spicy and refreshing green salad on the side. By adding in the mint, Thai basil, and cilantro to the salad, it gave it an extra refreshing kick, and helped mellow out the salad dressing.
+
+### Ingredients
+
+For the poke:  
+
+| Ingredient | Note | Total | Per Person |
+| ---------- | ---- | -----:| ----------:|
+| Fish | Whatever the store has | 1.25 lb| 0.25 lb |
+| Rice | | 2.5 cup | 0.5 cup |
+| Mango | Cube mango | 1.25 cup | 0.25 cup |
+| Sesame Oil | | 2.5 tbsp | 0.5 tbsp |
+| Green Onion | | 1 bunch | To taste |
+| Seaweed | Get it at the counter/already prepared | 1 container |
+| Cilantro | | 1 bunch | 2 or 3 sprigs |
+| Sesame Seeds | | 2.5 tbsp | 0.5 tbsp |
+| Soy Sauce | | 1.6 tbsp | 0.3 tbsp |
+
+Salad ingredients:  
+
+| Ingredient | Note | Total | Per Person |
+| ---------- | ---- | -----:| ----------:|
+| Mango | Thinly mango | 5 slices | 1 slices |
+| Baby Gem Lettuce | | 1 head | A decent amount |
+| Cilantro | | 1 bunch | To taste |
+| Thai Basil | | " | " |
+| Mint | | " | " |
+
+Salad Dressing:
+
+| Ingredient | Note | Total | Per Person |
+| ---------- | ---- | -----:| ----------:|
+| Fish Sauce | | 4 tbsp | - |
+| Lime | Juice of 1 lime | 1x | - |
+| Caster Sugar | | 1 tbsp | - |
+| Garlic | | 1 clove's worth | - |
+| Fresno Chili | Minced | 1x | - |
+| Serrano Chili | Minced | 1x | - |
