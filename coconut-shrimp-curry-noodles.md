@@ -1,4 +1,6 @@
-# Coconut and Shrimp Curry with Noodles
+# Coconut and Shrimp Curry over Glass Noodles
+
+![The picture](img/coconut-shrimp-curry-noodles.jpg)
 
 An incredibly simple dish, with ingredients you can find almost entirely at your local Safeway. It's cheap and pretty classy, and really satisfying. Great for a summer evening or a mild fall lunch.  
 
