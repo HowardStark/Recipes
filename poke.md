@@ -68,7 +68,7 @@ For the poke:
 
 | Ingredient | Note | Total | Per Person |
 | ---------- | ---- | -----:| ----------:|
-| Fish | Whatever the store has | 1.25 lb| 0.25 lb |
+| Fish | Whatever the store has | 1.25 lb | 0.25 lb |
 | Rice | | 2.5 cup | 0.5 cup |
 | Mango | Cube mango | 1.25 cup | 0.25 cup |
 | Sesame Oil | | 2.5 tbsp | 0.5 tbsp |
@@ -80,21 +80,21 @@ For the poke:
 
 Salad ingredients:  
 
-| Ingredient | Note | Total | Per Person |
-| ---------- | ---- | -----:| ----------:|
-| Mango | Thinly mango | 5 slices | 1 slices |
-| Baby Gem Lettuce | | 1 head | A decent amount |
-| Cilantro | | 1 bunch | To taste |
-| Thai Basil | | " | " |
-| Mint | | " | " |
+| Ingredient | Note | Total |
+| ---------- | ---- | -----:|
+| Mango | Thinly slice mango, one slice per serving | 5 slices |
+| Baby Gem Lettuce | | 1 head |
+| Cilantro | | 1 bunch |
+| Thai Basil | | " |
+| Mint | | " |
 
 Salad Dressing:
 
-| Ingredient | Note | Total | Per Person |
-| ---------- | ---- | -----:| ----------:|
-| Fish Sauce | | 4 tbsp | - |
-| Lime | Juice of 1 lime | 1x | - |
-| Caster Sugar | | 1 tbsp | - |
-| Garlic | | 1 clove's worth | - |
-| Fresno Chili | Minced | 1x | - |
-| Serrano Chili | Minced | 1x | - |
+| Ingredient | Note | Total |
+| ---------- | ---- | -----:|
+| Fish Sauce | | 4 tbsp |
+| Lime | Juice of 1 lime | 1x |
+| Caster Sugar | | 1 tbsp |
+| Garlic | | 1 clove's worth |
+| Fresno Chili | Minced | 1x |
+| Serrano Chili | Minced | 1x |
