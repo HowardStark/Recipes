@@ -2,7 +2,7 @@
 
 ## The Meal
 
-For the poke:
+For the poke:  
 | Ingredient | Note | Total | Per Person | In Kitchen |
 | ---------- | ---- | -----:| ----------:|:----------:|
 | Fish | Whatever the store has | 1.25 lb| 0.25 lb | No |
@@ -15,7 +15,7 @@ For the poke:
 | Sesame Seeds | | 2.5 tbsp | 0.5 tbsp | Yes |
 | Soy Sauce | | 1.6 tbsp | 0.3 tbsp | Yes |
 
-Salad ingredients:
+Salad ingredients:  
 | Ingredient | Note | Total | Per Person | In Kitchen |
 | ---------- | ---- | -----:| ----------:|:----------:|
 | Mango | Thinly mango | 12 | 2 or 3 slices | No |
