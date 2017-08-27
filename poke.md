@@ -1,6 +1,6 @@
 # Poke
 
-![Poke](img/poke.jpg)
+![Poke](img/poke2x.jpg)
 
 This is a simple and straightforward guide on general poke preperation. It's one of my favorite dishes no matter which of the multitude of variations its employing. I wasn't familiar on the philosophy or history of poke, and thought it might make sense to do some research as well as walk through how I select my fish and condiments and whatnot. Had a lot of fun.
 
